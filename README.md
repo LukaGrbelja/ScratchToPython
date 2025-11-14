@@ -16,7 +16,7 @@
     - [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - __Na lijevoj programskoj traci odaberi tab _Extensions_ i potraži ekstenziju _Python_ od izdavača _Microsoft_.__
 
-[Dodatno](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+[Dodatno](https://code.visualstudio.com/docs/python/python-tutorial)
 
 ## Konverzija
 
@@ -65,10 +65,10 @@ Pogledaj some fuckass tutorijal ili pročitaj [materijale](https://www.w3schools
 
 - Primjer
     - project.py > Line 8
-        - !(Slika spajanja na bazu u kodu konvertiranog projekta)[assets/img_dbuse_mdbconn.png]
+        - ![Slika spajanja na bazu u kodu konvertiranog projekta](assets/img_dbuse_mdbconn.png)
     - project.py > Line 146
-        - !(Slika ubacivanja podataka u bazu u kodu konvertiranog projekta)[assets/img_dbuse_mdbins.png]
+        - ![Slika ubacivanja podataka u bazu u kodu konvertiranog projekta](assets/img_dbuse_mdbins.png)
 - Provjera stanja podataka u bazi
-    - !(Slika prikaza baze podataka MongoDB ekstenzije u VS Code okruženju)[assets/img_dbuse_vscmdbx.png]
-    - !(Primjer podataka u kolekciji)[assets/mdbdata1.png]
-    - !(Primjer podataka u kolekciji)[assets/mdbdata2.png]
+    - ![Slika prikaza baze podataka MongoDB ekstenzije u VS Code okruženju](assets/img_dbuse_vscmdbx.png)
+    - ![Primjer podataka u kolekciji](assets/mdbdata1.png)
+    - ![Primjer podataka u kolekciji](assets/mdbdata2.png)
