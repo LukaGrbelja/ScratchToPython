@@ -70,5 +70,5 @@ Pogledaj some fuckass tutorijal ili pročitaj [materijale](https://www.w3schools
         - ![Slika ubacivanja podataka u bazu u kodu konvertiranog projekta](assets/img_dbuse_mdbins.png)
 - Provjera stanja podataka u bazi
     - ![Slika prikaza baze podataka MongoDB ekstenzije u VS Code okruženju](assets/img_dbuse_vscmdbx.png)
-    - ![Primjer podataka u kolekciji](assets/mdbdata1.png)
-    - ![Primjer podataka u kolekciji](assets/mdbdata2.png)
+    - ![Primjer podataka u kolekciji](assets/img_dbuse_mdbdata1.png)
+    - ![Primjer podataka u kolekciji](assets/img_dbuse_mdbdata2.png)
