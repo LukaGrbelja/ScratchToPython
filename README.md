@@ -54,7 +54,7 @@ Najjednostavniji za korištenje je MongoDB
 
 5. Omogući korištenje Python koda za MongoDB pomoću pymongo biblioteke
     - Uđi u CMD ili neki drugi terminal i pokreći naredbe
-    1. `cd C:/Users/Iskra/AppData/Local/Programs/Python/Python313/Scripts`
+    1. `cd C:/Users/UserName/AppData/Local/Programs/Python/Python313/Scripts`
         - `Python313` može biti i neka druga vrijednost ovisno o kojoj verziji pythona govorimo
     2. `py -m ensurepip --upgrade`
     3. `python -m pip install pymongo`
