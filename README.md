@@ -23,7 +23,7 @@
 1. Preuzmi Scratch projekt
     - Scratch programska traka > File > Save to your computer
 
-2. [Preuzmi kkkonverter](https://github.com/BirdLogics/sb3topy/)
+2. [Preuzmi konverter](https://github.com/BirdLogics/sb3topy/)
     - Zeleni code botun > Download ZIP
 
 3. Konvertiraj projekt
