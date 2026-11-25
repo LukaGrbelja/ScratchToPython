@@ -61,7 +61,7 @@ Najjednostavniji za korištenje je MongoDB
 
 ## Korištenje baze podataka
 
-Pogledaj some fuckass tutorijal ili pročitaj [materijale](https://www.w3schools.com/python/python_mongodb_getstarted.asp) (stvarno je jednostavno)
+- [Materijali](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
 
 - Primjer
     - project.py > Line 8
